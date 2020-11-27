@@ -2,7 +2,7 @@ const path=require('path');
 
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/keep-accounts-website/'
+    ? '/keep-account-website2/'
     : '/',
   lintOnSave: false,
   chainWebpack: (config)=>{

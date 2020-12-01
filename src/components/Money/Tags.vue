@@ -116,7 +116,7 @@ export default class Tags extends mixins(TagHelper) {
       align-items: center;
       $bg: #f5f5f5;
       margin-top: 8px;
-      margin-left: 12px;
+      margin-left: 8px;
       > .icon {
         background: $bg;
         font-size: 48px;

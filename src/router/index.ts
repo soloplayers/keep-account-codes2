@@ -11,7 +11,10 @@ Vue.use(VueRouter)
 const routes: Array<RouteConfig> = [
   {
     path:'/',
-    redirect:'/money'
+    redirect:'/money',
+    meta:{
+      title:'？？？？'
+    }
   },
   {
     path:'/money',

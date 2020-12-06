@@ -1,4 +1,4 @@
-<template>
++<template>
   <Layout>
     <div class="navBar">
       <Icon class="leftIcon" name="left" @click="goBack"/>
